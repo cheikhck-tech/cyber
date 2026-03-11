@@ -54,3 +54,4 @@ if hash_original == hash_modifie:
     print("Le fichier n'a pas été modifié.")
 else:
     print("Attention : le fichier a été modifié !")
+    
